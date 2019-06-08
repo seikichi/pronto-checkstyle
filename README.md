@@ -14,6 +14,8 @@ You need to specify location of checkstyle reports by passing `PRONTO_CHECKSTYLE
 PRONTO_CHECKSTYLE_REPORTS_DIR=build/reports/checkstyle/ pronto run --index
 ```
 
+See [seikichi/pronto-checkstyle-findbugs-example](https://github.com/seikichi/pronto-checkstyle-findbugs-example) for more details.
+
 ## Installation
 
 Add this line to your application's Gemfile:
